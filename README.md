@@ -1,7 +1,7 @@
 # Kaustubh Ramekar - BI & Data Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kr28/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-003E6B?style=flat-square&logo=vercel)](https://kaustubh-ramekar.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-003E6B?style=flat-square&logo=vercel)](https://kaustubhr.vercel.app/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/kramekar1)
 
 📊 *Power BI & Data Analytics Specialist | Python | SQL | Azure | AWS*
