@@ -44,9 +44,9 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kaustubh-ramekar&show_icons=true&theme=radical" alt="Kaustubh's GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh-ramekar&layout=compact&theme=react&langs_count=6" alt="Top Languages" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=kaustubh-ramekar&theme=radical" alt="GitHub Streak" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=kRamekar&show_icons=true&theme=radical" alt="Kaustubh's GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kRamekar&layout=compact&theme=react&langs_count=6" alt="Top Languages" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=kRamekar&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
