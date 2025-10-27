@@ -115,7 +115,7 @@ SETsquared IKEEP Programme – Intrapreneurial Innovation Credential
 ---
 
 ## 🖼 Activity Graph
-[![Kaustubh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaustubh-ramekar&theme=react-dark)](https://github.com/kaustubh-ramekar)
+[![Kaustubh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kRamekar&theme=react-dark)](https://github.com/kRamekar)
 
 ---
 
