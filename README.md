@@ -1,10 +1,10 @@
-# Kaustubh Ramekar - BI & Data Analyst
+# Kaustubh Ramekar – Data Analytics Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kr28/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-003E6B?style=flat-square&logo=vercel)](https://kaustubhr.vercel.app/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/kramekar1)
 
-📊 *Power BI & Data Analytics Specialist | Python | SQL | Azure | AWS*
+## 🌱 Data Analytics Specialist | Cloud | Python & SQL | Driving Insights for a Greener Future
 
 ---
 
@@ -31,9 +31,17 @@
 ![Data Mining](https://img.shields.io/badge/Data_Mining-4A154B?style=for-the-badge&logo=databricks&logoColor=white)
 ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-21759B?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
+<!-- Emerging AI & GenAI Technologies -->
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-000000?style=for-the-badge&logo=microsoftfabric&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![LLM Analytics](https://img.shields.io/badge/LLM_Analytics-4B0082?style=for-the-badge&logo=python&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-102230?style=for-the-badge&logo=mlflow&logoColor=white)
+
 ---
 
-## 📈 *GitHub Stats*
+## 📈 GitHub Stats
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=kaustubh-ramekar&show_icons=true&theme=radical" alt="Kaustubh's GitHub stats" />
@@ -43,80 +51,75 @@
 
 ---
 
-## 🚀 What I’ve Done
+## 🚀 What I Have Delivered
 
-- 📊 Delivered 100+ *Power BI dashboards* helping organisations make *data-driven strategic decisions*.
-- 🧠 Built end-to-end *data analytics workflows* integrating SQL, Azure, AWS, and Python to deliver actionable insights.
-- 🔍 Designed *semantic data models* with optimised DAX & query performance in Power BI.
-- ☁ Deployed scalable *cloud BI infrastructures* using AWS services such as Redshift, Athena, and S3.
-- 🧾 Engineered *automated data pipelines (ETL/ELT)* integrating multiple sources for real-time analytics.
-- 🧩 Developed *predictive models* and Python-based statistical analyses using Pandas, NumPy, and scikit-learn.
-- 🧮 Created complex *Revenue, Growth, and Visit Analytics dashboards* with interactive visualisations and trend tracking.
-- 🏆 Recognised for *intrapreneurial innovation* through the SETsquared IKEEP Programme for driving business-centric data solutions.
+- 📊 100+ Power BI dashboards enabling strategic data-driven decisions.
+- 🧠 End-to-end analytics workflows integrating SQL, Azure, AWS, and Python.
+- 🔍 High-performance semantic models with optimised DAX.
+- ☁ Scalable BI architecture deployed using AWS Redshift, Athena, and S3.
+- 🧩 Automated ETL and near real-time analytics pipelines.
+- 🧮 ML-driven insights using Pandas, NumPy, and scikit-learn.
+- 📈 KPI, Revenue, and Growth Analytics dashboards with interactive storytelling.
+- 🏆 Recognised for intrapreneurial business innovation (SETsquared IKEEP).
 
 ---
 
 ## 🔧 Featured BI Projects
 
-### *Visit Analytics Dashboard*
-- *Platform:* Power BI Service  
-- *Focus:* Real-time web traffic monitoring and trend visualisation  
-- *Key Features:* Interactive filters, daily/weekly breakdowns, real-time data integration  
-- *Tech Stack:* Power BI, DAX, SQL Server
+### Visit Analytics Dashboard
+- Platform: Power BI Service  
+- Focus: Real-time web traffic monitoring  
+- Tech: Power BI, DAX, SQL Server
 
-### *Master Sales Dashboard*
-- *Platform:* Power BI  
-- *Focus:* Multi-dimensional sales analytics — revenue, units sold, and profit margins  
-- *Key Features:* Regional segmentation, dynamic measures, performance trends  
-- *Tech Stack:* Power BI, DAX, Excel
+### Master Sales Dashboard
+- Platform: Power BI  
+- Focus: Revenue, volume, profit analytics  
+- Tech: Power BI, DAX, Excel
 
-### *Growth Analytics Dashboard*
-- *Platform:* Power BI + SQL  
-- *Focus:* KPI monitoring, customer acquisition, and business expansion tracking  
-- *Key Features:* Target vs Actual analysis, interactive growth charts  
-- *Tech Stack:* Power BI, DAX, SQL
+### Growth Analytics Dashboard
+- Platform: Power BI + SQL  
+- Focus: Customer growth and KPI intelligence  
+- Tech: Power BI, DAX, SQL
 
 ---
 
-## 🧠 What I'm Currently Working On
+## 🧠 Current Focus
 
-- 🚀 Building *enterprise-grade BI ecosystems* enabling self-service and data automation.
-- 🧮 Exploring *AI-driven analytics* with Python, Power BI, and machine learning.
-- ☁ Scaling BI infrastructures across *Azure and AWS platforms*.
-- 📘 Writing domain insights through blogs — [Tech Phlow](https://techphlow.blog) and [kAWStubh](https://kawstubh.blog).
+- Enterprise BI ecosystems for trustable and automated insights.
+- GenAI embedded analytics with Python and cloud platforms.
+- Sustainable data solutions supporting greener decision-making.
+- Publishing technical content on Tech Phlow and kAWStubh blogs.
 
 ---
 
 ## 💡 Voluntary Experience
 
-- 🧰 *Organiser – AI Signals Meetup (UK)*  
-  Leading community events for 3,500+ members focused on applied AI and interdisciplinary innovation.
-
-- ☁ *Assistant Organiser – AWS User Group UK*  
-  Supporting events, speaker coordination, and knowledge-sharing on AWS tools and best practices.
+- Organiser – AI Signals Meetup (UK)  
+  Leading applied AI events for 3,500+ members.
+- Assistant Organiser – AWS User Group UK  
+  Supporting speaker and knowledge exchange initiatives.
 
 ---
 
 ## 🎓 Education
 
-- *MSc. Business Analytics* – University of Exeter, 2021  
-- *MBA, Marketing* – SP Pune University, 2018
+- MSc Business Analytics – University of Exeter, 2021  
+- MBA Marketing – SP Pune University, 2018
 
 ---
 
 ## 🏅 Awards & Certifications
 
-*SETsquared IKEEP Programme* – Intrapreneurial Training & Project Placement  
-- Innovation Thinking • Business Model Design • Systems Collaboration • Solution Delivery
+SETsquared IKEEP Programme – Intrapreneurial Innovation Credential
 
 ---
 
-## 🖼 *Activity Graph*
+## 🖼 Activity Graph
 [![Kaustubh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kaustubh-ramekar&theme=react-dark)](https://github.com/kaustubh-ramekar)
 
 ---
 
-## 🌐 *Let's Connect*
-- 📧 *Email:* [kramekar1@gmail.com](mailto:kramekar1@gmail.com)  
-- 📞 *Phone:* 07586470554  
-- 🌍 *Location:* London
+## 🌐 Connect with Me
+- 📧 Email: [kramekar1@gmail.com](mailto:kramekar1@gmail.com)  
+- 📞 Phone: 07586470554  
+- 🌍 Location: London
